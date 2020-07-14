@@ -5,8 +5,11 @@ permalink: "/about/"
 main_nav: true
 ---
 
-![이재영]({{ site.baseurl }}/assets/ljy_logo_big.jpeg "이재영"){:.profile}
+![염소](../assets/my-icons/ljy_logo_big.jpg "염소"){:.profile}
 
-염소의 취미생활 블로그입니다
+# About 염소
+염소의 블로그에 오신것을 환영합니다.   
+간단한 개발 지식, 일상, 게임 정보등을 공유합니다.
 
-[vkv6581@gmail.com](vkv6581.gmail.com)
++ 웹 개발자로 재직중입니다.
++ [vkv6581@gmail.com](vkv6581.gmail.com)

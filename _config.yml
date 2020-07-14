@@ -5,22 +5,22 @@ plugins:
 exclude:
   - /vendor/
 title: 염소의 다이어리
-subtitle: 염소의 다이어리
+subtitle: ''
 email: vkv6581@gmail.com
 name: Lee Jae Young
-description: 일상/개발/게임 관련 내용을 포스팅하는 염소의 다이어리입니다.
+description: null
 baseurl: ''
 url: 'https://vkv6581@github.io'
-cover: /assets/header_image.jpg
-logo: /assets/ljy_logo.jpeg
+cover: /assets/icons/goat-icon.png
+logo: /assets/icons/goat-icon.png
 markdown: kramdown
 inter_post_navigation: 'false'
 highlightjs_theme: monokai-sublime
 pagination:
-  enabled: true
-  per_page: 5
+  enabled: 'true'
+  per_page: '5'
   permalink: '/page/:num/'
-  sort_reverse: true
+  sort_reverse: 'true'
 jekyll-archives:
   enabled:
     - categories
@@ -38,11 +38,11 @@ social:
     desc: Fork me on GitHub
     share: false
 protocols:
-  fb_image: /assets/ljy_logo.jpeg
+  fb_image: /assets/icons/goat-icon.png
   fb_image_width: 612
   fb_image_height: 605
   fb_image_type: image/png
-  twitter_image: /assets/logo.png
+  twitter_image: /assets/icons/goat-icon.png
   os_repo: 'https://github.com/vkv6581'
   os_rcs_type: git
   os_src: 'git@github.com:vkv6581/vkv6581.github.io'
